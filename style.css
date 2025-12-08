@@ -218,16 +218,16 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content:"Mahasigma Teknik Pertanian";
+        content:"Mahasiswa";
     }
     21%, 40%{
-        content:"mahasigma semester 1";
+        content:"Mahasigma Semester 1";
     }
     41%, 60%{
         content:"Mahasigma";
     }
     61%, 80%{
-        content:"Teknik Pertanian";
+        content:"Mahasigma UNPAD";
     }
     81%, 100%{
         content:"Mahasigma Ambis";
